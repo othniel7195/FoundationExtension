@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '9.0'
+
+target 'FoundationExtension_Example' do
+  pod 'FoundationExtension', :path => '../'
+
+  target 'FoundationExtension_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
