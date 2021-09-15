@@ -1,0 +1,16 @@
+PODS:
+  - FoundationExtension (0.1.0)
+
+DEPENDENCIES:
+  - FoundationExtension (from `../`)
+
+EXTERNAL SOURCES:
+  FoundationExtension:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FoundationExtension: fc7bfaa4f9fbeb4ef0d36602965ebd53846e0f99
+
+PODFILE CHECKSUM: 620a91608b77ee9d6aa8636a47f1120af407ad82
+
+COCOAPODS: 1.10.2
